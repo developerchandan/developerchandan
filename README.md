@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandan - Senior MEAN Stack Developer
 
-💡 With extensive experience in building scalable web applications using the MEAN (MongoDB, Express.js, Angular, Node.js) stack. I specialize in creating robust, enterprise-level solutions with a focus on performance and user experience.
+Results-driven MEAN Stack Developer with extensive experience architecting and implementing enterprise-level web applications. Proven expertise in developing scalable solutions using MongoDB, Express.js, Angular, and Node.js. Demonstrated track record of independently managing complex projects from conception to deployment, specializing in e-learning platforms, job portals, and assessment systems. Strong leadership abilities with experience mentoring junior developers..
 
 ## 🔧 Core Technical Expertise
 - **Frontend**: Angular (2+), Angular.js, TypeScript, RxJS, JavaScript (ES6+)
